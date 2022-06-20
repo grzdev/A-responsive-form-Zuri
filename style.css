@@ -187,12 +187,12 @@ html, body {
   }
 .gotorep-button{
   position: relative;
-  top: 90px;
+  top: 630px;
   left: 700px;
   width: 120px;
   height: 50px;
   border-radius: 20px;
-  border: 1px solid white;
-  background-color: red;
+  border: 1px solid #EB7373;
+  background-color: #EB7373;
   color: white;
 }
