@@ -185,18 +185,14 @@ html, body {
     display: inline;
      visibility: hidden;
   }
-  /* .firstname-success input{
-    border-color: #35CC89;
-  }
-  
-  .lastnameError input{
-    border-color: red;
-  }
-  
-  .lastnameError img{
-    visibility: visible;
-  }
-  
-  .lastnameError em{
-    visibility: visible;
-  } */
+.gotorep-button{
+  position: relative;
+  top: 90px;
+  left: 700px;
+  width: 120px;
+  height: 50px;
+  border-radius: 20px;
+  border: 1px solid white;
+  background-color: red;
+  color: white;
+}
