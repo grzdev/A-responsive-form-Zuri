@@ -1,2 +1,3 @@
 # A-responsive-form-Zuri
-https://github.com/19zay/A-responsive-form-Zuri
+Hosted page:
+https://19zay.github.io/A-responsive-form-Zuri/
